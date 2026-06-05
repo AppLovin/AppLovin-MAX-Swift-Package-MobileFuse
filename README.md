@@ -42,5 +42,5 @@ This package pulls in the following automatically:
 
 ## More information
 
-- [AppLovin MAX iOS Integration Guide](https://developers.applovin.com/en/max/ios/overview/integration)
-- [AppLovin MAX Mediation Setup](https://developers.applovin.com/en/max/mediation-networks)
+- [AppLovin MAX iOS Integration Guide](https://support.axon.ai/en/max/ios/overview/integration)
+- [AppLovin MAX Mediation Setup](https://support.axon.ai/en/max/mediation-networks)
