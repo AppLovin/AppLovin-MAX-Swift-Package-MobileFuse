@@ -1,6 +1,6 @@
 // swift-tools-version: 5.6
 // The swift-tools-version declares the minimum version of Swift required to build this package.
-//  Copyright © 2026 AppLovin. All rights reserved.
+// Copyright © 2026 AppLovin. All rights reserved.
 
 import PackageDescription
 
