@@ -14,7 +14,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git", from: "13.0.0"),
-        .package(url: "https://github.com/mobilefuse/mobilefuse-ios-sdk-spm.git", exact: "1.11.1")
+        .package(url: "https://github.com/mobilefuse/mobilefuse-ios-sdk-spm.git", exact: "1.12.0")
     ],
     targets: [
         .target(
@@ -28,8 +28,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppLovinMediationMobileFuseAdapter",
-            url: "https://artifacts.applovin.com/ios/com/applovin/mediation/mobilefuse-adapter/AppLovinMediationMobileFuseAdapter-1.11.1.0.zip",
-            checksum: "8e3bf288570ee29c8b6838369baac5e2a5500c53e5cf2eac1491dba26a63f9a6"
+            url: "https://artifacts.applovin.com/ios/com/applovin/mediation/mobilefuse-adapter/AppLovinMediationMobileFuseAdapter-1.12.0.0.zip",
+            checksum: "99804e32fa5875ea0f99224782ac4e32213ce1c8018c17b4ba89c8220f6eb8cb"
         )
     ]
 )
