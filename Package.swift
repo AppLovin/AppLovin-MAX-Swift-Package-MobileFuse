@@ -6,7 +6,7 @@ import PackageDescription
 
 let package = Package(
     name: "AppLovinMediationMobileFuseAdapter",
-    platforms: [.iOS(.v13)],
+    platforms: [.iOS(.v12)],
     products: [
         .library(
             name: "AppLovinMediationMobileFuseAdapter",
@@ -28,8 +28,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppLovinMediationMobileFuseAdapter",
-            url: "https://artifacts.applovin.com/ios/com/applovin/mediation/mobilefuse-adapter/AppLovinMediationMobileFuseAdapter-1.12.0.0.zip",
-            checksum: "99804e32fa5875ea0f99224782ac4e32213ce1c8018c17b4ba89c8220f6eb8cb"
+            url: "https://artifacts.applovin.com/ios/com/applovin/mediation/mobilefuse-adapter/AppLovinMediationMobileFuseAdapter-1.12.0.1.zip",
+            checksum: "a48d8868b1c1f967108b5824a635a3f57e8688a2959076d40654341d39dfc9fe"
         )
     ]
 )
